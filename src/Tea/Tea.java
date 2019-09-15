@@ -2,14 +2,14 @@ package Tea;
 
 public class Tea {
 	
-	static int teaMake;
-	Tea(){
+	static int teaMake=0;
+	/*Tea(){
 		Milk milk = new Milk();
 		Water water = new Water();
 		TeaLeaf teaLeaf = new TeaLeaf();
 		Sugar sugar = new Sugar();
 		teaMake = milk.quantity+water.quantity+teaLeaf.quantity+sugar.quantity;
-	}
+	}*/
 	
 	public static void main(String[] args) {
 		
