@@ -6,5 +6,7 @@ public class Sugar {
 		quantity=23;
 		System.out.println(" checking for my 2 commit ");
 		
+		
+		System.out.println(" chenges in vishal branch");
 	}
 }
