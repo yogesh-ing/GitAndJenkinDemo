@@ -2,7 +2,7 @@ package Tea;
 
 public class Tea {
 	
-	static int teaMake;
+	static int teaMake=0;
 	Tea(){
 		Milk milk = new Milk();
 		Water water = new Water();
